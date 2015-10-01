@@ -22,3 +22,15 @@ Description:
     The cube can have some of its parts selectively hidden
     Can switch to partial wireframe mode
     Of course all movements are supported (9 planes of motion)
+
+Screenshots:
+
+![alt tag](https://github.com/ThomasAn73/ThomasRubikCube/blob/master/ScreenShots/Clipboard-1.jpg)
+![alt tag](https://github.com/ThomasAn73/ThomasRubikCube/blob/master/ScreenShots/Clipboard-2.jpg)
+![alt tag](https://github.com/ThomasAn73/ThomasRubikCube/blob/master/ScreenShots/Clipboard-3.jpg)
+![alt tag](https://github.com/ThomasAn73/ThomasRubikCube/blob/master/ScreenShots/Clipboard-4.jpg)
+![alt tag](https://github.com/ThomasAn73/ThomasRubikCube/blob/master/ScreenShots/Clipboard-5.jpg)
+![alt tag](https://github.com/ThomasAn73/ThomasRubikCube/blob/master/ScreenShots/Clipboard-6.jpg)
+![alt tag](https://github.com/ThomasAn73/ThomasRubikCube/blob/master/ScreenShots/Clipboard-7.jpg)
+![alt tag](https://github.com/ThomasAn73/ThomasRubikCube/blob/master/ScreenShots/Clipboard-8.jpg)
+![alt tag](https://github.com/ThomasAn73/ThomasRubikCube/blob/master/ScreenShots/CubeMechanism.jpg)
