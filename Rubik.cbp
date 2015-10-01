@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Rubik" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Blank" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Blank" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../../../../A0_Appl/S00_Programming/C++Misc/Thomas C++ Libraries/ClassCamera.hpp" />
+		<Unit filename="../../../../A0_Appl/S00_Programming/C++Misc/Thomas C++ Libraries/ClassFileImport.hpp" />
+		<Unit filename="../../../../A0_Appl/S00_Programming/C++Misc/Thomas C++ Libraries/ClassGLobject.hpp" />
+		<Unit filename="../../../../A0_Appl/S00_Programming/C++Misc/Thomas C++ Libraries/ClassGeometry.hpp" />
+		<Unit filename="../../../../A0_Appl/S00_Programming/C++Misc/Thomas C++ Libraries/ClassLinkedList.hpp" />
+		<Unit filename="ProgFragmentShader.glsl" />
+		<Unit filename="ProgVertexShader.glsl" />
+		<Unit filename="Rubic.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
